@@ -1,4 +1,4 @@
-# Exerccio de IA
+# Exercício de IA
 
 Exercício da liga de IA, utilizando framework pandas. No link abaixo contém a execução completa do que foi pedido no exercício.
 
